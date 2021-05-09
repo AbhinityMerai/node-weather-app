@@ -1,4 +1,4 @@
-console.log('javascript');
+console.log('client side javascript');
 
 
 const form = document.querySelector('form');
